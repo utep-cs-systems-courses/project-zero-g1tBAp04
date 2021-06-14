@@ -13,6 +13,7 @@ void print_char_11x16(char c)
     putchar('\n');
   }
 }
+
 void print_char_8x12(char c)
 {
     c -= 0x20;
